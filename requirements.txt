@@ -1,0 +1,15 @@
+# Step 1: First, run the command in the comment below to install the CPU-only torch.
+# pip install --upgrade --force-reinstall torch==2.3.1+cpu --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+
+# Step 2: After Step 1 is successful, install the rest of the requirements with:
+# pip install -r requirements.txt
+
+requests
+beautifulsoup4
+langchain-community
+langchain-huggingface
+lancedb
+pyarrow
+sentence-transformers
+flask
+python-dotenv
