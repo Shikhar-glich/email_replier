@@ -29,7 +29,8 @@ The assistant persona is **Arya**, a friendly customer service agent for PNB Hou
 
 ## ⚙️ Setup & Run Instructions
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/Shikhar-glich/email_replier.git
 cd rag-email-replier
 
